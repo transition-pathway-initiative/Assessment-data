@@ -1,0 +1,141 @@
+﻿Company Name,Geography,Geography Code,Sector,CA100 Company?,Large/Medium Classification,ISINs,SEDOL,Publication Date,Assessment Date,Level,Performance compared to previous year,Q1L0|Does the company acknowledge climate change as a significant issue for the business?,Q2L1|Does the company explicitly recognise climate change as a relevant risk and/or opportunity to the business?,Q3L1|Does the company have a policy (or equivalent) commitment to action on climate change?,Q4L2|Has the company set greenhouse gas emission reduction targets?,Q5L2|Has the company published information on its Scope 1 and 2 greenhouse gas emissions?,Q6L3|Has the company nominated a board member or board committee with explicit responsibility for oversight of the climate change policy?,Q7L3|Has the company set quantitative targets for reducing its greenhouse gas emissions?,Q8L3|Does the company report on Scope 3 emissions?,Q9L3|Has the company had its operational (Scope 1 and/or 2) greenhouse gas emissions data verified?,Q10L3|Does the company support domestic and international efforts to mitigate climate change?,Q11L4|Has the company set long-term quantitative targets for reducing its greenhouse gas emissions?,"Q12L4|Has the company incorporated environmental, social and governance issues into executive remuneration?",Q13L4|Has the company reduced its operational (Scope 1 and 2) greenhouse gas emissions over the past 3 years?,Q14L4|Does the company provide information on the business costs associated with climate change?
+ADBRI,Australia,AUS,Cement,Yes,medium,AU000000ABC7,6006886,01/09/2017,12/09/2016,1,new,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No
+APA Corporation,United States of America,USA,Oil & Gas,No,medium,US03743Q1085,BNNF1C1,01/07/2017,11/08/2015,2,new,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No
+Acerinox,Spain,ESP,Steel,No,small,ES0132105018,B01ZVZ5,01/09/2017,06/09/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Adaro Energy,Indonesia,IDN,Coal Mining,No,medium,ID1000111305,B3BQFC4,01/07/2017,15/02/2017,1,new,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+African Rainbow Minerals,South Africa,ZAF,Coal Mining,No,medium,ZAE000054045,6041122,01/07/2017,03/01/2017,3,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Ambuja Cements,India,IND,Cement,No,large,INE079A01024,B09QQ11,01/09/2017,09/09/2016,3,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+American Electric Power,United States of America,USA,Electricity Utilities,Yes,large,US0255371017,2026242,01/06/2017,15/07/2016,3,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+Anadarko Petroleum,United States of America,USA,Oil & Gas,No,large,US0325111070,2032380,01/07/2017,12/10/2015,1,new,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+Anglo American (Coal Mining),United Kingdom,GBR,Coal Mining,Yes,large,GB00B1XZS820,"B1XZS82, B1YW0L9",01/07/2017,29/04/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Anhui Conch Cement,China,CHN,Cement,Yes,large,"CNE1000001W2, CNE0000019V8","6080396, 6441595, BP3R2Z1",01/09/2017,03/06/2016,0,new,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Arcelor Mittal,Netherlands,NLD,Steel,Yes,large,LU1598757687,BYPBS67,01/09/2017,18/08/2016,3,new,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No
+Asia Cement,Taiwan,TWN,Cement,No,large,TW0001102002,6056331,01/09/2017,12/07/2016,3,new,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No
+BHP (Coal Mining),United Kingdom,GBR,Coal Mining,Yes,large,not found,not found,01/07/2017,31/01/2017,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+BMW,Germany,DEU,Autos,Yes,large,"DE0005190003, DE0005190037","5756029, 5756030",01/02/2018,17/10/2017,3,new,new,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+BP,United Kingdom,GBR,Oil & Gas,Yes,large,GB0007980591,798059,01/07/2017,03/08/2016,2,new,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No
+Banpu,Thailand,THA,Coal Mining,No,medium,"TH0148A10Z06, DummyISINPU5, DummyISINPU4","BJFHBV6, BKWGX17, BKWGWJ8, BD2YHY3",01/07/2017,24/02/2017,3,new,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No
+Bluescope Steel,Australia,AUS,Steel,Yes,large,AU000000BSL0,6533232,01/09/2017,16/02/2017,2,new,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No
+Boral,Australia,AUS,Cement,Yes,large,AU000000BLD2,6218670,01/09/2017,10/06/2016,2,new,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No
+Brilliance,China,CHN,Autos,No,large,BMG1368B1028,6181482,01/02/2018,10/10/2017,0,new,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Bukit Asam,Indonesia,IDN,Coal Mining,No,medium,ID1000094006,6565127,01/07/2017,22/02/2017,2,new,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No
+CLP,Hong Kong,HKG,Electricity Utilities,No,large,HK0002007356,6097017,01/06/2017,29/07/2016,3,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes
+CMPC,Chile,CHL,Paper,No,large,CL0000001314,2196015,01/02/2018,24/11/2016,3,new,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes
+CRH,United Kingdom,GBR,Cement,Yes,large,IE0001827041,"0182704, 4182249",01/09/2017,02/08/2016,3,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Canadian Natural Resources,Canada,CAN,Oil & Gas,Yes,large,CA1363851017,"2171573, BD4DBT1",01/07/2017,24/11/2016,2,new,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No
+Cemex,Mexico,MEX,Cement,Yes,large,"MXP225611567, US1512908898","2406457, 2488671",01/09/2017,05/12/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Chevron,United States of America,USA,Oil & Gas,Yes,large,US1667641005,2838555,01/07/2017,14/10/2016,2,new,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No
+China Coal,China,CHN,Coal Mining,No,large,"CNE100000528, CNE100000957","B1JNK84, B2NWDF2, BP3R3P8",01/07/2017,21/12/2016,1,new,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+China National Building Materials,China,CHN,Cement,No,large,CNE1000002N9,B0Y91C1,01/09/2017,06/02/2017,0,new,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+China Shenhua Energy,China,CHN,Coal Mining,Yes,large,"CNE1000002R0, CNE100000767","B09N7M0, B281JM3, BP3R262",01/07/2017,21/06/2016,1,new,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+China Steel,Taiwan,TWN,Steel,Yes,large,TW0002002003,6190950,01/09/2017,10/02/2017,3,new,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Coal India,India,IND,Coal Mining,Yes,large,INE522F01014,B4Z9XF5,01/07/2017,09/02/2017,2,new,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Companhia Siderurgica Nacional,Brazil,BRA,Steel,No,medium,BRCSNAACNOR6,,01/09/2017,10/01/2017,2,new,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No
+Concho Resources,United States of America,USA,Oil & Gas,No,medium,US20605P1012,B1YWRK7,01/07/2017,28/07/2016,1,new,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No
+ConocoPhillips,United States of America,USA,Oil & Gas,Yes,large,US20825C1045,2685717,01/07/2017,03/08/2016,2,new,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No
+Consol Energy,United States of America,USA,Coal Mining,No,small,US20854L1089,BF4L070,01/07/2017,11/07/2016,2,new,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+DMCI,Philippines,PHL,Coal Mining,No,medium,PHY2088F1004,6272483,01/07/2017,29/12/2016,0,new,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+DTE Energy,United States of America,USA,Electricity Utilities,No,medium,US2333311072,2280220,01/06/2017,01/07/2016,3,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No
+Daimler,Germany,DEU,Autos,Yes,large,DE0007100000,5529027,01/02/2018,16/12/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Daio Paper,Japan,JPN,Paper,No,small,JP3440400004,6870898,01/02/2018,24/02/2017,1,new,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes
+Devon Energy,United States of America,USA,Oil & Gas,Yes,medium,US25179M1036,2480677,01/07/2017,12/08/2015,2,new,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No
+Dominion Energy,United States of America,USA,Electricity Utilities,Yes,large,US25746U1097,2542049,01/06/2017,05/12/2015,1,new,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No
+Domtar,United States of America,USA,Paper,No,small,US2575592033,B1T84Z4,01/02/2018,03/12/2017,1,new,new,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+EOG Resources,United States of America,USA,Oil & Gas,No,large,US26875P1012,2318024,01/07/2017,01/08/2016,1,new,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Edison International,United States of America,USA,Electricity Utilities,No,medium,US2810201077,2829515,01/06/2017,13/12/2015,1,new,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+Ence Energia y Celulosa,Spain,ESP,Paper,No,small,ES0130625512,B1W7BK2,01/02/2018,02/10/2017,2,new,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Enel,Italy,ITA,Electricity Utilities,Yes,large,IT0003128367,7144569,01/06/2017,01/08/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Eni,Italy,ITA,Oil & Gas,Yes,large,IT0003132476,7145056,01/07/2017,28/07/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Entergy,United States of America,USA,Electricity Utilities,No,medium,US29364G1031,2317087,01/06/2017,01/08/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Erdemir,Turkey,TUR,Steel,No,medium,TRAEREGL91G3,B03MS97,01/09/2017,12/01/2017,2,new,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No
+Eversource Energy,United States of America,USA,Electricity Utilities,No,medium,US30040W1080,BVVN4Q8,01/06/2017,15/10/2016,3,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes
+Exelon,United States of America,USA,Electricity Utilities,Yes,large,US30161N1019,2670519,01/06/2017,28/07/2016,2,new,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+Exxaro Resources,South Africa,ZAF,Coal Mining,No,medium,ZAE000084992,6418801,01/07/2017,12/12/2016,2,new,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+Exxon Mobil,United States of America,USA,Oil & Gas,Yes,large,US30231G1022,2326618,01/07/2017,15/10/2016,2,new,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No
+Ferrari,Italy,ITA,Autos,No,large,NL0011585146,"BD6G507, BZ1GMK5",01/02/2018,17/11/2017,0,down,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Fiat Chrysler,Italy,ITA,Autos,Yes,large,"NL00150001Q9, IT00BKV3M563","BMD8KX7, BM9RCN2, BKV3M34",01/02/2018,15/10/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Fibria,Brazil,BRA,Paper,No,large,BRFIBRACNOR9,,01/02/2018,05/12/2017,2,new,new,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+Firstenergy,United States of America,USA,Electricity Utilities,Yes,medium,US3379321074,2100920,01/06/2017,31/07/2016,1,new,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No
+Fletcher Building,New Zealand,NZL,Cement,No,medium,NZFBUE0001S0,"6341606, 6341617",01/09/2017,24/08/2016,1,new,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No
+Ford,United States of America,USA,Autos,Yes,large,US3453708600,2615468,01/02/2018,27/01/2017,3,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+Fortis,Canada,CAN,Electricity Utilities,No,medium,CA3495531079,2347200,01/06/2017,03/08/2016,2,new,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No
+Geely,China,CHN,Autos,No,large,KYG3777B1032,6531827,01/02/2018,10/11/2017,1,unchanged,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No
+General Motors,United States of America,USA,Autos,Yes,large,US37045V1008,B665KZ5,01/02/2018,15/10/2016,3,new,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Gerdau,Brazil,BRA,Steel,No,large,"BRGGBRACNOR1, BRGGBRACNPR8, US3737371050","2645443, 2645517, 2297606",01/09/2017,20/01/2017,1,new,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Glencore (Aluminium),United Kingdom,GBR,Aluminium,Yes,large,JE00B4T3BW64,"B4T3BW6, BG6MV64",01/07/2017,16/09/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Glencore (Coal Mining),United Kingdom,GBR,Coal Mining,Yes,large,JE00B4T3BW64,"B4T3BW6, BG6MV64",01/07/2017,16/09/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Groupe PSA,France,FRA,Autos,Yes,large,FR0000121501,7103526,01/02/2018,30/10/2017,4,new,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Grupo Argos,Colombia,COL,Cement,Yes,large,"COT09PA00035, COT09PA00043","B8SGSP6, B8JBYR4",01/09/2017,18/08/2016,1,new,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No
+HeidelbergCement,Germany,DEU,Cement,Yes,large,DE0006047004,"5120679, ZB0JM25",01/09/2017,20/09/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Hokuetsu,Japan,JPN,Paper,No,small,JP3841800000,6433105,01/02/2018,16/12/2016,1,new,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes
+Honda,Japan,JPN,Autos,Yes,large,JP3854600008,6435145,01/02/2018,23/11/2017,3,new,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Hyundai,South Korea,KOR,Autos,No,large,"KR7005380001, KR7005382007, KR7005381009","6451055, 6148272, 6451022",01/02/2018,06/12/2017,3,new,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Hyundai Steel,South Korea,KOR,Steel,No,large,KR7004020004,6461850,01/09/2017,15/08/2016,3,new,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes
+Iberdrola,Spain,ESP,Electricity Utilities,Yes,large,ES0144580Y14,B288C92,01/06/2017,31/07/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Inner Mongolia Yitai Coal,China,CHN,Coal Mining,No,medium,"CNE000000SK7, CNE100001FW6","6019011, B4PPPY6",01/07/2017,24/05/2016,0,new,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+International Paper,United States of America,USA,Paper,Yes,medium,US4601461035,2465254,01/02/2018,04/12/2017,4,new,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+JFE,Japan,JPN,Steel,No,large,JP3386030005,6543792,01/09/2017,04/11/2016,1,new,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes
+JSW Steel,India,IND,Steel,No,large,INE019A01038,BZBYJJ7,01/09/2017,30/01/2017,2,new,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No
+Kia,South Korea,KOR,Autos,No,large,KR7000270009,6490928,01/02/2018,10/11/2017,3,new,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No
+Kobe Steel,Japan,JPN,Steel,No,medium,JP3289800009,6496023,01/09/2017,17/08/2016,1,new,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No
+LafargeHolcim,Switzerland,CHE,Cement,Yes,large,CH0012214059,7110753,01/09/2017,14/06/2016,3,new,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Lee & Man Paper Manufacturing,China,CHN,Paper,No,medium,KYG5427W1309,6693772,01/02/2018,06/12/2017,0,new,new,No,No,No,No,No,No,No,No,No,No,No,No,No
+Marathon Petroleum,United States of America,USA,Oil & Gas,Yes,large,US56585A1025,B3K3L40,01/07/2017,25/11/2016,1,new,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No
+Martin Marietta Materials,United States of America,USA,Cement,Yes,medium,US5732841060,2572079,01/09/2017,16/08/2016,0,new,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+Mazda,Japan,JPN,Autos,No,large,JP3868400007,6900308,01/02/2018,25/11/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Mondi,United Kingdom,GBR,Paper,No,medium,GB00B1CRLC47,"B1CRLC4, B1YCDP4",01/02/2018,18/09/2017,3,new,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NextEra Energy,United States of America,USA,Electricity Utilities,Yes,large,US65339F1012,2328915,01/06/2017,02/12/2016,2,new,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No
+Nine Dragons Paper Industries,China,CHN,Paper,No,large,BMG653181005,B0WC2B8,01/02/2018,02/10/2017,0,new,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Nippon Paper Industries,Japan,JPN,Paper,No,medium,JP3721600009,B8B8PJ2,01/02/2018,25/11/2016,3,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes
+Nippon Steel,Japan,JPN,Steel,Yes,large,JP3381000003,6642569,01/09/2017,24/08/2016,1,new,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes
+Nissan,Japan,JPN,Autos,Yes,large,JP3672400003,6642860,01/02/2018,06/12/2017,3,new,new,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+Nisshin Steel,Japan,JPN,Steel,No,medium,JP3676200003,B89C2N9,01/09/2017,19/12/2016,1,new,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+Novolipetsk Steel,Russia,RUS,Steel,No,large,"RU0009046452, US67011E2046","B59FPC7, B0RTNX3",01/09/2017,30/01/2017,0,new,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Nucor,United States of America,USA,Steel,No,medium,US6703461052,2651086,01/09/2017,20/05/2016,0,new,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Occidental Petroleum,United States of America,USA,Oil & Gas,Yes,large,US6745991058,2655408,01/07/2017,31/01/2016,1,new,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+Oji,Japan,JPN,Paper,No,medium,JP3174410005,6657701,01/02/2018,25/11/2016,3,new,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No
+PG&E,United States of America,USA,Electricity Utilities,No,medium,US69331C1080,2689560,01/06/2017,22/10/2016,3,new,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+PPL,United States of America,USA,Electricity Utilities,Yes,large,US69351T1060,2680905,01/06/2017,29/07/2016,2,new,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+Pap Y Cart Euro,Spain,ESP,Paper,No,small,ES0168561019,,01/02/2018,01/04/2017,1,new,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+Phillips 66,United States of America,USA,Oil & Gas,Yes,large,US7185461040,B78C4Y8,01/07/2017,22/12/2015,1,new,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No
+Pioneer Natural Resource,United States of America,USA,Oil & Gas,No,large,US7237871071,2690830,01/07/2017,11/01/2016,0,new,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Posco,South Korea,KOR,Steel,Yes,large,KR7005490008,6693233,01/09/2017,30/06/2016,3,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Power Assets,Hong Kong,HKG,Electricity Utilities,Yes,large,HK0006000050,6435327,01/06/2017,03/08/2016,2,new,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No
+Public Service Enterprise Group,United States of America,USA,Electricity Utilities,No,large,US7445731067,2707677,01/06/2017,15/08/2015,2,new,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No
+Renault,France,FRA,Autos,Yes,large,FR0000131906,4712798,01/02/2018,13/04/2017,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Rio Tinto (Aluminium),Australia,AUS,Aluminium,Yes,large,not found,not found,01/07/2017,08/02/2017,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Rio Tinto (Diversified mining),Australia,AUS,Diversified Mining,Yes,large,not found,not found,01/07/2017,08/02/2017,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Royal Dutch Shell,United Kingdom,GBR,Oil & Gas,Yes,large,"GB00B03MM408, GB00B03MLX29","B03MM40, B03MLX2, B09CBL4",01/07/2017,08/08/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+SSE,United Kingdom,GBR,Electricity Utilities,Yes,large,GB0007908733,790873,01/06/2017,29/01/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Sappi,South Africa,ZAF,Paper,No,medium,ZAE000006284,6777007,01/02/2018,24/02/2017,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Semen Indonesia,Indonesia,IDN,Cement,No,large,ID1000106800,6795236,01/09/2017,30/12/2016,1,new,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No
+Semirara Mining and Power,Philippines,PHL,Coal Mining,No,medium,PHY7628G1124,BQ13Z04,01/07/2017,01/02/2016,2,new,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Severstal,Russia,RUS,Steel,Yes,large,"RU0009046510, US8181503025","B5B9C59, B1G4YH7",01/09/2017,26/01/2017,1,new,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No
+Shandong Chenming,China,CHN,Paper,No,medium,"CNE000000QM7, CNE100000BK2, CNE0000015H5","6801832, B2RJKP8, 6294960, BD5CQ14",01/02/2018,26/10/2017,1,unchanged,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Shougang Fushan Resources,Hong Kong,HKG,Coal Mining,No,medium,HK0639031506,6354671,01/07/2017,01/08/2016,0,new,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Shree Cements,India,IND,Cement,No,large,INE070A01015,6100357,01/09/2017,27/01/2017,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Siam Cement,Thailand,THA,Cement,No,large,"TH0003010Z12, TH0003010Z04, TH0003010R12","6609906, 6609917, 6609928",01/09/2017,05/09/2016,1,new,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No
+Southern Company,United States of America,USA,Electricity Utilities,Yes,large,US8425871071,2829601,01/07/2017,03/08/2016,2,new,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No
+Stora Enso,Finland,FIN,Paper,No,medium,"FI0009005961, FI0009007611","5072673, 5594144",01/02/2018,13/04/2017,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Subaru,Japan,JPN,Autos,No,large,JP3814800003,6356406,01/02/2018,13/04/2017,1,new,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Suncor Energy,Canada,CAN,Oil & Gas,Yes,large,CA8672241079,B3NB1P2,01/07/2017,27/09/2015,3,new,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+Suzano,Brazil,BRA,Paper,Yes,large,BRSUZBACNOR0,B02GKC7,01/02/2018,20/01/2017,2,new,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No
+Suzuki,Japan,JPN,Autos,Yes,large,JP3397200001,6865504,01/02/2018,13/04/2017,1,new,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No
+Taiheiyo Cement,Japan,JPN,Cement,No,medium,JP3449020001,6660204,01/09/2017,21/12/2016,3,new,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No
+Taiwan Cement,Taiwan,TWN,Cement,No,large,TW0001101004,6869937,01/09/2017,15/02/2017,2,new,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No
+Tata Steel,India,IND,Steel,No,large,"INE081A01012, INE00BYW9529","6101156, BG02FM4",01/09/2017,05/12/2016,3,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+Tenaris,Italy,ITA,Steel,No,large,LU0156801721,7538515,01/09/2017,28/07/2016,1,new,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No
+Tesla,United States of America,USA,Autos,No,large,US88160R1014,B616C79,01/02/2018,16/11/2016,0,new,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+TotalEnergies,France,FRA,Oil & Gas,Yes,large,FR0000120271,"B15C557, B128WJ1",01/07/2017,17/08/2015,3,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Toyota,Japan,JPN,Autos,Yes,large,JP3633400001,"6900643, 0851435",01/02/2018,13/04/2017,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+UPM-Kymmene,Finland,FIN,Paper,No,large,FI0009005987,5051252,01/02/2018,06/10/2017,3,new,new,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+UltraTech Cement,India,IND,Cement,Yes,large,INE481G01011,B01GZF6,01/09/2017,18/01/2017,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Vale (Coal Mining),Brazil,BRA,Coal Mining,Yes,large,"BRVALEACNOR0, US91912E1055, US91912E2046, BRVALEACNPA3","2196286, 2857334, 2933900, 2257127",01/07/2017,13/06/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Valero Energy,United States of America,USA,Oil & Gas,Yes,large,US91913Y1001,2041364,01/07/2017,30/07/2016,2,new,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+Voestalpine,Austria,AUT,Steel,No,medium,AT0000937503,4943402,01/09/2017,01/02/2017,2,new,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No
+Volkswagen,Germany,DEU,Autos,Yes,large,"DE0007664005, DE0007664039","5497102, 5497168",01/02/2018,14/04/2017,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Whitehaven Coal,Australia,AUS,Coal Mining,No,medium,AU000000WHC8,B1XQXC4,01/07/2017,15/11/2016,1,new,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No
+Woodside Petroleum,Australia,AUS,Oil & Gas,Yes,large,"AU000000WPL2, AU0000001091, AU000BF0TR33","6979728, BZ1CNB1, BF0TR33",01/07/2017,03/08/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+XCEL Energy,United States of America,USA,Electricity Utilities,Yes,large,US98389B1008,2614807,01/06/2017,03/08/2016,4,new,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+YFY,Taiwan,TWN,Paper,No,small,TW0001907004,6988616,01/02/2018,16/11/2016,1,new,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No
+Yanzhou Coal Mining,China,CHN,Coal Mining,No,large,"CNE1000004Q8, CNE000000WV6","6109893, 6119289, BP3R5S5",01/07/2017,10/01/2017,1,new,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
